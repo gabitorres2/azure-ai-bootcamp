@@ -55,6 +55,10 @@ Este repositorio documenta mi participación en el \*\*Bootcamp Azure AI Enginee
 4\. Obtener la certificación \*\*AI-102\*\*.
 
 
+\## 📚 Clases
+- [Clase 0: Bienvenida](docs/class0/README.md)
+- [Clase 1: Cognitive Services](docs/class1.md)
+
 
 \## 📌 Notas
 
